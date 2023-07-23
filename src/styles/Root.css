@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  padding: 2rem;
+  text-align: center;
+}
+
+.photo {
+  max-width: 200px;
+  border-radius: 50%;
+}
+
+ul {
+  list-style-type: none;
+}
+li {
+  display: flex; /* horizontal */
+  gap: 20px; /* horizontal */
+  align-items: center; /* vertical */
+  margin-bottom: 10px; /* vertical */
+}
